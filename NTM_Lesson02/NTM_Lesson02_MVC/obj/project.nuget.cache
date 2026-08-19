@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeERmPhBiaA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lesson02\\NTM_Lesson02_MVC\\NTM_Lesson02_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tmiik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\tmiik\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\tmiik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\tmiik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
