@@ -1,0 +1,81 @@
+﻿
+@using NTM_Lab02.Models
+
+@{
+    ViewData["Title"] = "Sản phẩm";
+
+    List<Category> categories = ViewBag.Categories;
+    List<Product> products = ViewBag.Products;
+}
+
+<div class="row">
+
+    <div class="col-md-3">
+        <h4>DANH MỤC</h4>
+
+        <div class="list-group">
+
+            <a class="list-group-item list-group-item-action"
+               asp-route="product"
+               asp-route-action="Index">
+                Tất cả
+            </a>
+
+            @foreach (var category in categories)
+            {
+                <a class="list-group-item list-group-item-action"
+                   asp-route="product"
+                   asp-route-action="Index"
+                   asp-route-categoryId="@category.Id">
+                    @category.Name
+                </a>
+            }
+
+        </div>
+    </div>
+
+    <div class="col-md-9">
+
+        <h3>Danh sách sản phẩm</h3>
+
+        <div class="row">
+
+            @foreach (var item in products)
+            {
+                <div class="col-md-4 mb-4">
+
+                    <div class="card h-100">
+
+                        <img src="@Url.Content(item.Image)"
+                             class="card-img-top"
+                             style="height:220px; object-fit:cover;" />
+
+                        <div class="card-body">
+
+                            <h5>@item.Name</h5>
+
+                            <p>
+                                Giá:
+                                <del>@item.Price</del>
+                                Giá mới: @item.SalePrice
+                            </p>
+
+                            <a asp-route="product"
+                               asp-route-action="Detail"
+                               asp-route-id="@item.Id"
+                               class="btn btn-success">
+                                Chi tiết
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>
