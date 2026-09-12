@@ -1,0 +1,115 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.main-header {
+    background-color: #222;
+}
+
+.main-header .navbar {
+    padding: 8px 0;
+}
+
+.main-header .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.main-header .nav-link {
+    color: #ddd;
+}
+
+.main-header .nav-link:hover {
+    color: white;
+}
+
+.category-box {
+    border: 1px solid #ddd;
+}
+
+.category-title {
+    background-color: #6d97cc;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.category-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.category-list li {
+    border-bottom: 1px solid #ddd;
+}
+
+.category-list a {
+    display: block;
+    padding: 8px 12px;
+    color: #333;
+    text-decoration: none;
+}
+
+.category-list a:hover {
+    background-color: #eee;
+}
+
+.category-banner {
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+.section-title {
+    background-color: #6d97cc;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    height: 100%;
+}
+
+.product-image {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+}
+
+.product-name {
+    margin-top: 10px;
+}
+
+.product-price {
+    font-weight: bold;
+    color: #c0392b;
+}
+
+.main-footer {
+    background-color: #222;
+    color: white;
+    padding: 25px 0;
+}

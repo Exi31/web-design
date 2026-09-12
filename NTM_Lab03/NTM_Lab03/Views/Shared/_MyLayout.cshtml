@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - NTM_Lab03</title>
+
+    <link rel="stylesheet"
+          href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet"
+          href="~/css/site.css"
+          asp-append-version="true" />
+
+</head>
+
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark">
+
+                <a class="navbar-brand"
+                   asp-controller="Home"
+                   asp-action="Index">
+                    NTM_Lab03
+                </a>
+
+                <div class="navbar-nav">
+
+                    <a class="nav-link"
+                       asp-controller="Home"
+                       asp-action="Index">
+                        Trang chủ
+                    </a>
+
+                    <a class="nav-link" href="#">
+                        Liên hệ
+                    </a>
+
+                    <a class="nav-link" href="#">
+                        Sản phẩm
+                    </a>
+
+                </div>
+
+            </nav>
+        </div>
+    </header>
+
+
+    <main class="container mt-3">
+
+        <div class="row">
+
+            <aside class="col-md-3">
+                <partial name="_Category" />
+            </aside>
+
+            <section class="col-md-9">
+                @RenderBody()
+            </section>
+
+        </div>
+
+    </main>
+
+
+    <footer class="main-footer mt-4">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-6">
+                    <h5>GIỚI THIỆU</h5>
+                    <p>hehe<p>
+                </div>
+
+                <div class="col-md-6">
+                    <h5>LIÊN HỆ</h5>
+                    <p>hehe<p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

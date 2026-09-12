@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab03\\ntm_lab03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9ACCBAC7-DC71-413B-9E4A-16276A3133CC}|NTM_Lab03\\NTM_Lab03.csproj|solutionrelative:ntm_lab03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "NTM_Lab03\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T16:24:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeToolTip": "NTM_Lab03\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T16:22:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotProductViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\ViewComponents\\HotProductViewComponent.cs",
+              "RelativeDocumentMoniker": "NTM_Lab03\\ViewComponents\\HotProductViewComponent.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\ViewComponents\\HotProductViewComponent.cs",
+              "RelativeToolTip": "NTM_Lab03\\ViewComponents\\HotProductViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:17:29.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Shared\\_Category.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Views\\Shared\\_Category.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Shared\\_Category.cshtml",
+              "RelativeToolTip": "NTM_Lab03\\Views\\Shared\\_Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T16:12:55.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NTM_Lab03\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T16:11:37.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NTM_Lab03\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T16:24:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NTM_Lab03\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:07:34.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Models\\Product.cs",
+              "RelativeToolTip": "NTM_Lab03\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:06:57.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Program.cs",
+              "RelativeDocumentMoniker": "NTM_Lab03\\Program.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\Program.cs",
+              "RelativeToolTip": "NTM_Lab03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:01:44.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NTM_Lab03\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab03\\NTM_Lab03\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NTM_Lab03\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-12T16:36:31.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
