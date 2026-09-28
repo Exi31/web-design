@@ -1,0 +1,52 @@
+﻿
+@model IEnumerable<NTMLesson07.Models.NTMMember>
+
+@{
+    ViewData["Title"] = "Danh Sách Thành Viên";
+}
+
+<div class="container mt-4">
+    <h2>Danh Sách Thành Viên (Lesson 07 Validation)</h2>
+
+    <p>
+        <a asp-action="Create" class="btn btn-success">
+            Thêm thành viên mới
+        </a>
+    </p>
+
+    <table class="table table-bordered table-striped align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Mã thành viên</th>
+                <th>Tài khoản</th>
+                <th>Họ và tên</th>
+                <th>Email</th>
+                <th>Số điện thoại</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ID</td>
+                        <td>@item.username</td>
+                        <td>@item.fullname</td>
+                        <td>@item.email</td>
+                        <td>@item.phone</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5" class="text-center text-muted">
+                        Chưa có dữ liệu thành viên nào.
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

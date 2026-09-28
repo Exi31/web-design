@@ -1,0 +1,46 @@
+﻿@model NTMLesson07.Models.NTMMember
+
+@{
+    ViewData["Title"] = "Thêm Mới Thành Viên";
+}
+
+<div class="container mt-4">
+    <h2>Thêm Mới Thành Viên</h2>
+
+    <form asp-action="Create" method="post" class="col-md-6 mt-3">
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+        <div class="mb-3">
+            <label asp-for="username" class="form-label"></label>
+            <input asp-for="username" class="form-control" />
+            <span asp-validation-for="username" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="password" class="form-label"></label>
+            <input asp-for="password" class="form-control" />
+            <span asp-validation-for="password" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="fullname" class="form-label"></label>
+            <input asp-for="fullname" class="form-control" />
+            <span asp-validation-for="fullname" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="email" class="form-label"></label>
+            <input asp-for="email" class="form-control" />
+            <span asp-validation-for="email" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="phone" class="form-label"></label>
+            <input asp-for="phone" class="form-control" />
+            <span asp-validation-for="phone" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Lưu thông tin</button>
+        <a asp-action="Index" class="btn btn-secondary">Xem danh sách</a>
+    </form>
+</div>
