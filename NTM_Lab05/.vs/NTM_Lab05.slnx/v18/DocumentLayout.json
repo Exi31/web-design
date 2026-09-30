@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39223D-FEEE-454F-B7D6-CCD6ED2ABB9F}|NTM_Lab05\\NTM_Lab05.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab05\\ntm_lab05\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39223D-FEEE-454F-B7D6-CCD6ED2ABB9F}|NTM_Lab05\\NTM_Lab05.csproj|solutionrelative:ntm_lab05\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39223D-FEEE-454F-B7D6-CCD6ED2ABB9F}|NTM_Lab05\\NTM_Lab05.csproj|c:\\users\\tmiik\\github\\web-design\\ntm_lab05\\ntm_lab05\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39223D-FEEE-454F-B7D6-CCD6ED2ABB9F}|NTM_Lab05\\NTM_Lab05.csproj|solutionrelative:ntm_lab05\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTM_Lab05\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Views\\Account\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTM_Lab05\\Views\\Account\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab05\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "NTM_Lab05\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:00:43.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab05\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "NTM_Lab05\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T03:57:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NTM_Lab05\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NTM_Lab05\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:55:50.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "NTM_Lab05\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTM_Lab05\\NTM_Lab05\\Models\\Account.cs",
+              "RelativeToolTip": "NTM_Lab05\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:42:16.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

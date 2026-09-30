@@ -1,0 +1,83 @@
+@model IEnumerable<NTM_Lab05.Models.Account>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.fullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.avatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.birthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.facebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.fullName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.phone)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.address)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.avatar)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.birthday)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.gender)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.password)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.facebook)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
