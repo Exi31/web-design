@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\views\\ntmmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\views\\ntmmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\controllers\\ntmmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\controllers\\ntmmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\views\\home\\ntmabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\views\\home\\ntmabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\views\\ntmmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\views\\ntmmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\views\\ntmmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\views\\ntmmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\views\\ntmmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\views\\ntmmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\models\\ntmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\models\\ntmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|c:\\users\\tmiik\\github\\web-design\\ntmlesson06\\ntmlesson06\\views\\ntmmember\\ntmgetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8450CA21-9E8E-8AA5-FCB4-96A537097B17}|NTMLesson06\\NTMLesson06.csproj|solutionrelative:ntmlesson06\\views\\ntmmember\\ntmgetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NTMLesson06\\Views\\NTMMember\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Edit.cshtml",
+              "RelativeToolTip": "NTMLesson06\\Views\\NTMMember\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:43:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "NTMLesson06\\Views\\NTMMember\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Create.cshtml",
+              "RelativeToolTip": "NTMLesson06\\Views\\NTMMember\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:43:22.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NTMAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\Home\\NTMAbout.cshtml",
+              "RelativeDocumentMoniker": "NTMLesson06\\Views\\Home\\NTMAbout.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\Home\\NTMAbout.cshtml",
+              "RelativeToolTip": "NTMLesson06\\Views\\Home\\NTMAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:17:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NTMLesson06\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NTMLesson06\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:16:53.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NTMMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Controllers\\NTMMemberController.cs",
+              "RelativeDocumentMoniker": "NTMLesson06\\Controllers\\NTMMemberController.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Controllers\\NTMMemberController.cs",
+              "RelativeToolTip": "NTMLesson06\\Controllers\\NTMMemberController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:12:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "NTMLesson06\\Views\\NTMMember\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Index.cshtml",
+              "RelativeToolTip": "NTMLesson06\\Views\\NTMMember\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:32:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "NTMLesson06\\Views\\NTMMember\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\Details.cshtml",
+              "RelativeToolTip": "NTMLesson06\\Views\\NTMMember\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:43:05.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NTMLesson06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NTMLesson06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:16:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NTMMember.cs",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Models\\NTMMember.cs",
+              "RelativeDocumentMoniker": "NTMLesson06\\Models\\NTMMember.cs",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Models\\NTMMember.cs",
+              "RelativeToolTip": "NTMLesson06\\Models\\NTMMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:11:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NTMGetDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\NTMGetDetails.cshtml",
+              "RelativeDocumentMoniker": "NTMLesson06\\Views\\NTMMember\\NTMGetDetails.cshtml",
+              "ToolTip": "C:\\Users\\tmiik\\github\\web-design\\NTMLesson06\\NTMLesson06\\Views\\NTMMember\\NTMGetDetails.cshtml",
+              "RelativeToolTip": "NTMLesson06\\Views\\NTMMember\\NTMGetDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:23:53.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

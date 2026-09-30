@@ -1,0 +1,45 @@
+﻿@model IEnumerable<NTMLesson06.Models.NTMMember>
+
+@{
+    ViewData["Title"] = "Danh Sách Thành Viên";
+}
+
+<div class="container mt-4">
+    <h2>Danh Sách Thành Viên (Lesson 06)</h2>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Thêm mới thành viên</a>
+    </p>
+
+    <table class="table table-bordered table-striped align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Mã TV</th>
+                <th>Tài khoản</th>
+                <th>Họ tên</th>
+                <th>Email</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.username</td>
+                    <td>@item.fullname</td>
+                    <td>@item.email</td>
+
+                    <td>
+                        <a asp-action="Edit"
+                           asp-route-id="@item.ID"
+                           class="btn btn-sm btn-warning">
+                            Sửa
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
