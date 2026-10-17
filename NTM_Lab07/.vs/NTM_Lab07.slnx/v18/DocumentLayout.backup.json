@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\areas\\admins\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\areas\\admins\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\ntm_lab07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\ntm_lab07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|c:\\users\\grind\\github\\web-design\\ntm_lab07\\ntm_lab07\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C9E65B-D5C1-472C-9C67-3A8A9683B241}|NTM_Lab07\\NTM_Lab07.csproj|solutionrelative:ntm_lab07\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Program.cs",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Program.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Program.cs",
+              "RelativeToolTip": "NTM_Lab07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T11:23:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:22:53.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "NTM_Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T11:20:14.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\_ViewStart.cshtml*",
+              "RelativeToolTip": "NTM_Lab07\\Areas\\Admins\\Views\\_ViewStart.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:19:36.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:18:46.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Areas\\Admins\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Areas\\Admins\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Areas\\Admins\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:18:01.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NTM_Lab07",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\NTM_Lab07.csproj",
+              "RelativeDocumentMoniker": "NTM_Lab07\\NTM_Lab07.csproj",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\NTM_Lab07.csproj",
+              "RelativeToolTip": "NTM_Lab07\\NTM_Lab07.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T11:12:58.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:10:46.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_main.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\Shared\\_main.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Views\\Shared\\_main.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\Shared\\_main.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Views\\Shared\\_main.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:08:59.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:05:36.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:05:23.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NTM_Lab07\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_Lab07\\NTM_Lab07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NTM_Lab07\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T09:51:11.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
