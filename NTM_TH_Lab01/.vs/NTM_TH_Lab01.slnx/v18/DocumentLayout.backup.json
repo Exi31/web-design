@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|c:\\users\\grind\\github\\web-design\\ntm_th_lab01\\ntm_th_lab01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47AD017-E7E4-B4F4-F80B-696FC248D476}|NTM_TH_Lab01\\NTM_TH_Lab01.csproj|solutionrelative:ntm_th_lab01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml*",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T04:31:47.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\ViewComponents\\RenderViewComponent.cs*",
+              "RelativeToolTip": "NTM_TH_Lab01\\ViewComponents\\RenderViewComponent.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T04:26:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\MenuItem.cs",
+              "RelativeToolTip": "NTM_TH_Lab01\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T04:24:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\Footer.cshtml*",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Shared\\Footer.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T04:11:32.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T04:08:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\MyLayout.cshtml*",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Shared\\MyLayout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T03:50:49.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T04:11:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Program.cs",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Program.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Program.cs",
+              "RelativeToolTip": "NTM_TH_Lab01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T03:25:13.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T03:16:03.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Student\\Index.cshtml*",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Student\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T03:07:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\Main.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Shared\\Main.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Shared\\Main.cshtml",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Shared\\Main.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T04:19:52.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "NTM_TH_Lab01\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwEQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T03:21:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "NTM_TH_Lab01\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T03:01:33.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\Gender.cs",
+              "RelativeToolTip": "NTM_TH_Lab01\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:59:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\Branch.cs",
+              "RelativeToolTip": "NTM_TH_Lab01\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:59:17.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "NTM_TH_Lab01\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\grind\\github\\web-design\\NTM_TH_Lab01\\NTM_TH_Lab01\\Models\\Student.cs",
+              "RelativeToolTip": "NTM_TH_Lab01\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:59:38.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

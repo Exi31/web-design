@@ -1,0 +1,26 @@
+﻿@model IEnumerable<NTM_TH_Lab01.Models.MenuItem>
+
+<div id="layoutSidenav_nav">
+    <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+        <div class="sb-sidenav-menu">
+            <div class="nav">
+                <div class="sb-sidenav-menu-heading">DANH MỤC QUẢN LÝ</div>
+
+                @foreach (var item in Model)
+                {
+                    <a class="nav-link" href="/@item.Link">
+                        <div class="sb-nav-link-icon">
+                            <i class="fas fa-columns"></i>
+                        </div>
+                        @item.Name
+                    </a>
+                }
+            </div>
+        </div>
+
+        <div class="sb-sidenav-footer">
+            <div class="small">Đăng nhập bởi:</div>
+            Admin System
+        </div>
+    </nav>
+</div>
