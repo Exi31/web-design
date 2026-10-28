@@ -35,6 +35,12 @@ namespace NTM_TH_Lab01.ViewComponents
                     Id = 4,
                     Name = "Courses",
                     Link = "Admin/Course/List"
+                },
+                new MenuItem
+                {
+                    Id = 5,
+                    Name = "Người học",
+                    Link = "Learner/Index"
                 }
             };
         }

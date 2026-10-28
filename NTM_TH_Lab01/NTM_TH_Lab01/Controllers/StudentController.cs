@@ -1,62 +1,50 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using NTM_TH_Lab01.Models;
 
-namespace NTM_TH_Lab01.Controllers
+namespace NTM_TH_Lab01.Controllers;
+
+[Route("Admin/Student")]
+public class StudentController : Controller
 {
-    [Route("Admin/Student")]
-    public class StudentController : Controller
+    private static readonly List<Student> listStudents = new()
     {
-        private List<Student> listStudents = new List<Student>();
-        public StudentController()
-        {
-            //Tạo danh sách sinh viên với 4 dữ liệu mẫu
-            listStudents = new List<Student>()
-            {
-                new Student() { Id = 101, Name = "Hải Nam", Branch = Branch.IT,
-                    Gender = Gender.Male, IsRegular=true,
-                    Address = "A1-2018", Email = "nam@g.com" },
-                new Student() { Id = 102, Name = "Minh Tú", Branch = Branch.BE,
-                    Gender = Gender.Female, IsRegular=true,
-                    Address = "A1-2019", Email = "tu@g.com" },
-                new Student() { Id = 103, Name = "Hoàng Phong", Branch = Branch.CE,
-                    Gender = Gender.Male, IsRegular=false,
-                    Address = "A1-2020", Email = "phong@g.com" },
-                new Student() { Id = 104, Name = "Xuân Mai", Branch = Branch.EE,
-                    Gender = Gender.Female, IsRegular=false,
-                    Address = "A1-2021", Email = "mai@g.com" },
-            };
-        }
-        [Route("List")]
-        public IActionResult Index()
-        {
-            return View(listStudents);
-        }
+        new Student { Id = 101, Name = "Hải Nam", Branch = Branch.IT,
+            Gender = Gender.Male, IsRegular = true,
+            Address = "A1-2018", Email = "nam@g.com" },
+        new Student { Id = 102, Name = "Minh Tú", Branch = Branch.BE,
+            Gender = Gender.Female, IsRegular = true,
+            Address = "A1-2019", Email = "tu@g.com" },
+        new Student { Id = 103, Name = "Hoàng Phong", Branch = Branch.CE,
+            Gender = Gender.Male, IsRegular = false,
+            Address = "A1-2020", Email = "phong@g.com" },
+        new Student { Id = 104, Name = "Xuân Mai", Branch = Branch.EE,
+            Gender = Gender.Female, IsRegular = false,
+            Address = "A1-2021", Email = "mai@g.com" }
+    };
 
-        [HttpGet]
-        [Route("Add")]
-        public IActionResult Create()
-        {
-            ViewBag.AllGenders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
-            ViewBag.AllBranches = new List<SelectListItem>()
-            {
-                new SelectListItem { Text = "IT", Value = "1" },
-                new SelectListItem { Text = "BE", Value = "2" },
-                new SelectListItem { Text = "CE", Value = "3" },
-                new SelectListItem { Text = "EE", Value = "4" }
-            };
+    [HttpGet("List")]
+    public IActionResult Index()
+    {
+        return View(listStudents);
+    }
 
-            return View();
-        }
+    [HttpGet("Add")]
+    public IActionResult Create()
+    {
+        return View();
+    }
 
-        [HttpPost]
-        [Route("Add")]
-        public IActionResult Create(Student s)
-        {
-            s.Id = listStudents.Last<Student>().Id + 1;
-            listStudents.Add(s);
+    [HttpPost("Add")]
+    [ValidateAntiForgeryToken]
+    public IActionResult Create(Student s)
+    {
+        if (!ModelState.IsValid)
+            return View(s);
 
-            return View("Index", listStudents);
-        }
+        s.Id = listStudents.Count == 0
+            ? 1
+            : listStudents.Max(x => x.Id) + 1;
+        listStudents.Add(s);
+        return RedirectToAction(nameof(Index));
     }
 }

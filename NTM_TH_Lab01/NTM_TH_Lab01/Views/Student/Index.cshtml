@@ -1,12 +1,12 @@
 ﻿
 @{
-    ViewData["Title"] = "Student List";
+    ViewData["Title"] = "Danh sách sinh viên";
     Layout = "~/Views/Shared/MyLayout.cshtml";
 }
 
 @model IEnumerable<Student>
 
-<a asp-controller="Student" asp-action="Create" class="btn btn-primary">Create Student</a>
+<a asp-controller="Student" asp-action="Create" class="btn btn-primary">Thêm sinh viên</a>
 
 @section Scripts {
     <script>
@@ -22,6 +22,7 @@
         <tr>
             <th>Mã</th>
             <th>Họ tên</th>
+            <th>Điểm</th>
             <th>Ngày sinh</th>
             <th>Ngành</th>
             <th>Giới tính</th>
@@ -65,7 +66,8 @@
             <tr>
                 <td>@s.Id</td>
                 <td>@s.Name</td>
-                <td>@s.DateOfBirth</td>
+                <td>@s.Grade</td>
+                <td>@(s.DateOfBirth?.ToString("dd/MM/yyyy"))</td>
                 <td>@str</td>
                 <td>@(s.Gender == Gender.Male ? "Nam" : "Nữ")</td>
                 <td>@(s.IsRegular ? "Chính quy" : "Phi chính quy")</td>

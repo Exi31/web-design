@@ -1,0 +1,22 @@
+﻿@model Learner
+@{
+    ViewData["Title"] = "Xóa người học";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+<h1>Xóa người học</h1>
+<p>Bạn có chắc muốn xóa người học này?</p>
+<dl class="row">
+    <dt class="col-sm-3">Mã</dt>
+    <dd class="col-sm-9">@Model.LearnerID</dd>
+    <dt class="col-sm-3">Họ tên</dt>
+    <dd class="col-sm-9">@Model.LastName @Model.FirstMidName</dd>
+    <dt class="col-sm-3">Ngành</dt>
+    <dd class="col-sm-9">@Model.Major?.MajorName</dd>
+    <dt class="col-sm-3">Ngày nhập học</dt>
+    <dd class="col-sm-9">@Model.EnrollmentDate.ToString("dd/MM/yyyy")</dd>
+</dl>
+<form asp-action="Delete" asp-route-id="@Model.LearnerID" method="post">
+    <input type="hidden" name="id" value="@Model.LearnerID" />
+    <button type="submit" class="btn btn-danger">Xác nhận xóa</button>
+    <a asp-action="Index">Hủy</a>
+</form>

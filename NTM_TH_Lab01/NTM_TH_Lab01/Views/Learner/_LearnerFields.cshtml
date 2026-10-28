@@ -1,0 +1,24 @@
+﻿@model Learner
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="mb-3">
+    <label asp-for="FirstMidName" class="form-label"></label>
+    <input asp-for="FirstMidName" class="form-control" />
+    <span asp-validation-for="FirstMidName" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="LastName" class="form-label"></label>
+    <input asp-for="LastName" class="form-control" />
+    <span asp-validation-for="LastName" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="MajorID" class="form-label"></label>
+    <select asp-for="MajorID" asp-items="ViewBag.MajorID" class="form-select">
+        <option value="">-- Chọn ngành --</option>
+    </select>
+    <span asp-validation-for="MajorID" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="EnrollmentDate" class="form-label"></label>
+    <input asp-for="EnrollmentDate" class="form-control" />
+    <span asp-validation-for="EnrollmentDate" class="text-danger"></span>
+</div>

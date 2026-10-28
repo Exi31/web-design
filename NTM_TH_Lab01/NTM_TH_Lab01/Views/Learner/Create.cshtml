@@ -1,0 +1,14 @@
+﻿@model Learner
+@{
+    ViewData["Title"] = "Thêm người học";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+<h1>Thêm người học</h1>
+<form asp-action="Create" method="post">
+    <partial name="_LearnerFields" model="Model" />
+    <button type="submit" class="btn btn-primary">Thêm</button>
+    <a asp-action="Index">Quay lại</a>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
